@@ -38,7 +38,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Tech enthusiast with a passion for development.",
+      title: "Passionate Developer and a Tech Enthusiast.",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Currently building an E-commerce Platform",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -76,7 +76,8 @@ export const navItems = [
       des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "/ui.earth.com",
+      linktitle: "/solar.com",
+      link: "https://everosacollections.com/",
     },
     {
       id: 2,
@@ -84,7 +85,8 @@ export const navItems = [
       des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "/ui.yoom.com",
+      linktitle: "/yoom.com",
+      link: "https://everosacollections.com/",
     },
     {
       id: 3,
@@ -92,7 +94,8 @@ export const navItems = [
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "/ui.aiimg.com",
+      linktitle: "/aiimg.com",
+      link: "https://everosacollections.com/",
     },
     {
       id: 4,
@@ -100,42 +103,43 @@ export const navItems = [
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "/ui.apple.com",
+      linktitle: "/apple.com",
+      link: "https://everosacollections.com/",
     },
   ];
   
   export const testimonials = [
     {
       quote:
-        "Collaborating with Erick was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Erick's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Erick is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Erick's expertise and commitment to our project were remarkable. He not only delivered a polished website but also took the time to understand our unique needs. Working with him was a game-changer for our business.",
+      name: "Sarah Thompson",
+      title: "CEO, Stellar Solutions Inc.",
     },
     {
       quote:
-        "Collaborating with Erick was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Erick's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Erick is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Working with Erick was a breeze. His attention to detail and ability to solve complex issues made our project run smoothly. I highly recommend him for anyone looking to take their digital presence to the next level.",
+      name: "John Lee",
+      title: "Creative Director, Bright Ideas Studio",
     },
     {
       quote:
-        "Collaborating with Erick was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Erick's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Erick is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Erick brought creativity and technical prowess to our collaboration. He exceeded our expectations with innovative solutions and a proactive approach. I look forward to partnering with him on future projects.",
+      name: "Emma Davis",
+      title: "Founder, Pulse Innovations",
     },
     {
       quote:
-        "Collaborating with Erick was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Erick's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Erick is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "I'm impressed by Erick's professionalism and his deep understanding of web development. He transformed our vision into reality with precision and flair. Working with him was a pleasure from start to finish.",
+      name: "David Miller",
+      title: "Marketing Manager, Visionary Ventures",
     },
     {
       quote:
-        "Collaborating with Erick was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Erick's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Erick is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Erick is a dedicated professional who goes above and beyond. His ability to translate our ideas into a functional and visually appealing website was outstanding. I wouldn't hesitate to recommend him.",
+      name: "Sophia Rodriguez",
+      title: "Chief Operations Officer, Nexus Technologies",
     },
-  ];
+  ];  
   
   export const companies = [
     {
@@ -205,13 +209,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      sociolink: "https://github.com/Erick-dev98",
     },
     {
       id: 2,
       img: "/twit.svg",
+      sociolink: "https://x.com/Ricu235419",
     },
     {
       id: 3,
       img: "/link.svg",
+      sociolink: "https://www.linkedin.com/in/erick-mutua-47000929a",
     },
   ];
