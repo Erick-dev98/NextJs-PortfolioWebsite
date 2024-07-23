@@ -72,12 +72,12 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
+      title: "Brainwave AI Chat App Landing Page",
+      des: "Explore the Possibilities of AI Chatting with BrainwaveCurve. Unleash the power of AI within Brainwave. Upgrade your productivity with Brainwave, the open AI chat app designed to enhance communication and streamline your workflow.",
+      img: "/brainwave_img.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      linktitle: "/solar.com",
-      link: "https://everosacollections.com/",
+      linktitle: "/brainwave.app",
+      link: "https://brainwave-drab-alpha.vercel.app/",
     },
     {
       id: 2,
