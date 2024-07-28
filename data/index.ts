@@ -222,12 +222,19 @@ export const socialMedia = [
     },
     {
         id: 2,
-        img: "/twit.svg",
-        sociolink: "https://x.com/Ricu235419",
+        img: "/x_icon.svg",
+        sociolink: "https://x.com/ErickMutua_dev",
     },
     {
         id: 3,
         img: "/link.svg",
         sociolink: "https://www.linkedin.com/in/erick-mutua-47000929a",
     },
+    {
+        id: 4,
+        img: "/whatsapp_icon.svg",
+        sociolink: "https://wa.me/254768003470",
+    },
 ];
+
+
