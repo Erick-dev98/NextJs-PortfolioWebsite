@@ -99,22 +99,31 @@ export const projects = [
     // },
     {
         id: 3,
+        title: "Everosa Collections - Premier E-commerce Platform",
+        des: "Everosa Collections is a robust e-commerce platform that offers a seamless shopping experience. Featuring a modern design and intuitive interface, it supports a wide range of products and ensures secure transactions. Built using the latest web technologies, Everosa Collections is optimized for performance and user satisfaction.",
+        img: "/everosa_img.png",
+        iconLists: ["/javascript.svg", "/css.svg", "/php.svg", "/mysql.svg", "/gsap.svg"],
+        linktitle: "/everosacollections.com",
+        link: "https://everosacollections.com/",
+    },
+    // {
+    //     id: 3,
+    //     title: "Animated Apple Iphone 3D Website",
+    //     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    //     img: "/p4.svg",
+    //     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    //     linktitle: "/apple.com",
+    //     link: "https://everosacollections.com/",
+    // },
+    {
+        id: 4,
         title: "AI Image SaaS - Canva Application",
         des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
         img: "/p3.svg",
-        iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+        iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/c.svg"],
         linktitle: "/aiimg.com",
-        link: "https://everosacollections.com/",
-    },
-    {
-        id: 4,
-        title: "Animated Apple Iphone 3D Website",
-        des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-        img: "/p4.svg",
-        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-        linktitle: "/apple.com",
-        link: "https://everosacollections.com/",
-    },
+        link: "/",
+    }    
 ];
 
 export const testimonials = [
