@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Erick Mutua - Software Engineer",
-  description: "Showcasing Modern & Minimalist Web Solutions with PHP, Laravel, JavaScript, React.js, and Next.js",
+  description: "🌟 Welcome to my portfolio, showcasing my expertise in software development, including projects in JavaScript, React, Next.js, TypeScript, PHP, and Laravel.",
 };
 
 export default function RootLayout({

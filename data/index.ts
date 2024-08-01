@@ -117,13 +117,22 @@ export const projects = [
     // },
     {
         id: 4,
-        title: "AI Image SaaS - Canva Application",
-        des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-        img: "/p3.svg",
+        title: "LiveDocks - Advanced Real-Time Collaboration Platform",
+        des: "Real-time collaboration platform designed to enhance productivity and teamwork. With advanced features such as simultaneous editing, live chat, and version control, LiveDocks empowers teams to work together seamlessly. Built with modern web technologies, it offers a fast, secure, and intuitive user experience.",
+        img: "/live-docks_img.png",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/c.svg"],
-        linktitle: "/aiimg.com",
-        link: "/",
-    }    
+        linktitle: "/livedocks.app",
+        link: "https://live-docks-nu.vercel.app/",
+    } 
+    // {
+    //     id: 4,
+    //     title: "AI Image SaaS - Canva Application",
+    //     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    //     img: "/p3.svg",
+    //     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/c.svg"],
+    //     linktitle: "/aiimg.com",
+    //     link: "/",
+    // }    
 ];
 
 export const testimonials = [
