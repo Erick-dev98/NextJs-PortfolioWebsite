@@ -22,7 +22,7 @@ const Hero = () => {
       <div className='flex justify-center relative my-20 z-10'>
         <div className='max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center'>
           <h2 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80'>
-            Welcome to my Portfolio
+            Expert in JavaScript, TypeScript, React.js, Next.js, Node.js, PHP & Laravel
           </h2>
 
           <TextGenerateEffect
@@ -31,7 +31,7 @@ const Hero = () => {
           />
 
           <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-            I&apos;m Erick Mutua, a Software Developer based in Kenya.
+            I&apos;m Erick Mutua, a Full Stack Developer.
           </p>
 
           <a href="#about">
