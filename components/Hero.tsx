@@ -28,7 +28,7 @@ const Hero = () => {
 
           <TextGenerateEffect
             className='text-center text-[40px] md:text-5xl lg:text-6xl'
-            words='Crafting Scalable Web Solutions from Frontend to Backend'
+            words='Crafting Scalable Web Applications from Frontend to Backend'
           />
 
           {/* <h2 className='uppercase tracking-widest text-xs text-center text-blue-100 max-w-80'>
